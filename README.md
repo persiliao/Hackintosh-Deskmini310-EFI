@@ -8,7 +8,7 @@
 * CPU: i7-9700
 * 内存条 / RAM:  金士顿(Kingston) 16G DDR4 2400MHZ x 2
 * 硬盘 / Hard Drive: WD 1T M.2 NVMe SSD
-* Wireless Card / 无线网卡: Broadcom BCM94360CS2  转接卡
+* Wireless Card / 无线网卡: Broadcom BCM94360CS2 + 转接卡
 
 #### 功能 / Functions
 
@@ -28,7 +28,8 @@
 * Chipset Configuration -> **Vt-d**: <strong style="color:red">Disabled</strong>
 * Chipset Configuration -> **Onboard HD Audio**: <strong style="color:green">Enabled</strong>
 * USB Configuration -> **XHCI Hand-off**: <strong style="color:green">Enabled</strong>
-* Super IO Configuration -> **Serial Port**: * Chipset Configuration -> **Vt-d**: <strong style="color:red">Disabled</strong>
+* Super IO Configuration -> **Serial Port**: <strong style="color:green">Enabled</strong>
+* Chipset Configuration -> **Vt-d**: <strong style="color:red">Disabled</strong>
 * Security -> **Secure Boot**: <strong style="color:red">Disabled</strong>
 * Boot -> **Compatibility Support Module(CSM)**: <strong style="color:red">Disabled</strong>
 
