@@ -49,9 +49,10 @@ sudo pmset proximitywake 0
 
 * OpenCore 升级到<strong style="color:red">1.0.0</strong>版本及以上
 * BIOS版本<strong style="color:red">4.0</strong>及以上
-* 默认开启了Console输出日志，方便排错，在正常安装没问题之后，请自行删除boot-args中含FE41995C9F82参数中-v值
+* 默认开启了Console输出日志，方便排错，在正常安装没问题之后，请自行删除boot-args中含FE41995C9F82参数中<strong>-v</strong>值
     > NVRAM -> Add -> *FE41995C9F82* boot-args
 * 请务必修改<strong style="color:red">三码</strong>
+* EFI并非通用，如果遇到问题请自行查阅相关资料或者提ISSUE
 
 #### 截图 / Screenshots
 ![系统信息](screenshots/system-info.png)
